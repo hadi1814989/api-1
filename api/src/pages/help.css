@@ -1,0 +1,89 @@
+.help-page {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .search-bar {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .faq-section, .contact-section, .guides-section {
+    margin-bottom: 40px;
+  }
+  
+  h2 {
+    margin-bottom: 10px;
+  }
+
+.contact-section{
+    text-align: center;
+    background-color: #000;
+    width: 80%;
+    margin: 0 auto;
+    padding: 50px 0px;
+    color: #fff;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 15px;
+}
+.contact-section ul{
+    background-color: #fff;
+    padding: 25px 0px;
+}
+.contact-section ul li{
+    list-style: none;
+}
+.contact-section ul li a{
+    text-decoration: none;
+    color: #000;
+}
+.contact-section ul li a:hover{
+    text-decoration: underline;
+}
+#part-2{
+  background-color: #000;
+  padding: 100px 0px;
+}
+  .guides-section{
+    text-align: center;
+    background-color: #fff;
+    border: 0.5px solid #000;
+    border-radius: 15px;
+    width: 80%;
+    margin: 0 auto;
+    padding: 50px 0px;
+    color: #000;
+    margin-bottom: 50px;
+  }
+  .guides-section ul{
+    background-color: #000;
+    padding: 25px 0px;
+  }
+  .guides-section ul li{
+    list-style: none;
+  }
+  .guides-section ul li a{
+    text-decoration: none;
+    color: #fff;
+  }
+  .guides-section ul li a:hover{
+    text-decoration: underline;
+  }
+  #part-3{
+    background:linear-gradient(#000,#fff, #000);
+    padding: 80px 0px;
+    
+  }
+  #part-3 h1{
+    font-size: 55px;
+    padding-bottom: 10px;
+    color: #00000085;
+  }
+  #part-3 input{
+    border-radius: 50px;
+    margin-top: 15px;
+    border-color: #fff;
+  }

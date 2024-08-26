@@ -1,0 +1,60 @@
+.div{
+    margin-left: 1rem;
+  }
+  .ptag{
+    color: rgb(163, 163, 163);
+    border: 1px solid silver;
+    background-color: #ffffff;
+    padding: 15px;
+    padding: 10px;
+    margin-top: 2px;
+    transition: 0.5s;
+  }
+  .ptag:hover{
+    color: #000;
+  }
+  .cus-btn{
+    width:  100% !important;
+    color: #000 !important;
+    background-color: #ffffff !important;
+    border: 1px solid gray !important;
+    font-size: 20px !important;
+    /* animation: dropdown 350ms ease-in-out backwards;
+    animation-delay: 450ms;
+  }
+  @keyframes dropdown{
+    0%{
+      opacity: 0;
+         transform: rotateX(-90deg);
+    }
+    50%{
+      transform: rotateX(20deg);
+    }
+    100%{
+      opacity: 1;
+      transform: rotateX(0deg);  
+    } */
+  }
+  .products{
+    margin-bottom:3rem;;
+  }
+  .body{
+    background-color: #000;
+    padding-bottom: 200px;
+    padding-top: 100px;
+  }
+  .cus-card{
+    border: 1px solid #000 !important;
+    background-color: #000 !important;
+    padding: 20px !important;
+    color: #ffffff !important;
+    transition: 0.5s;
+  }
+  .cus-card:hover{
+    border: 1px solid #ffffff !important;
+    background-color: #ffffff !important;
+    padding: 20px !important;
+    color: #000 !important;
+    transform: scale(0.9);
+    z-index: 999;
+  }
